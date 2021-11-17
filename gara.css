@@ -1,12 +1,14 @@
 header{
     display: flex;
     justify-content: space-between;
-    background-color: #ffc170
+    background-color: #ffc170;
 }
 header h1{
+    white-space: nowrap;
     color: #009499;
 }
 header ul li{
+    white-space: nowrap;
     display: inline-block;
     font-size: 20px;
     margin:11px 20px 0px 0px;
@@ -20,6 +22,7 @@ header ul li{
     margin-top:50px;
 }
 .Profile h1{
+    white-space: nowrap;
     margin:0;
     color:#fc0061;
 }
@@ -32,22 +35,16 @@ header ul li{
     width:300px;
     margin:0px;
 }
-.name{
-    margin: auto 600px;
-}
 .name h2{
     color:#5980ff;
 }
-.syokai{
-    margin: auto 400px;
-}
 .syokai p{
+    display:inline-block;
     border: 3px solid #1e6615;
 }
 .box h2{
-    text-align: center;
+    display:inline-block;
     border:3px double #000000;
-    margin:0;
 }
 .box p{
     font-size: 17px;
