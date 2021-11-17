@@ -15,9 +15,40 @@ header ul li{
     margin-top: 50px;
     text-align: center;
 }
+.Profile{
+    text-align:center;
+    margin-top:50px;
+}
+.Profile h1{
+    margin:0;
+    color:#fc0061;
+}
+.box{
+    margin:0;
+}
 .box img{
     background-color:#1ef5d1;
-    padding-bottom:100px;
     height:auto;
     width:300px;
+    margin:0px;
+}
+.name{
+    margin: auto 600px;
+}
+.name h2{
+    color:#5980ff;
+}
+.syokai{
+    margin: auto 400px;
+}
+.syokai p{
+    border: 3px solid #1e6615;
+}
+.box h2{
+    text-align: center;
+    border:3px double #000000;
+    margin:0;
+}
+.box p{
+    font-size: 17px;
 }
