@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffc170
+}
+header h1{
+    color: #009499;
+}
+header ul li{
+    display: inline-block;
+    font-size: 20px;
+    margin:11px 20px 0px 0px;
+}
