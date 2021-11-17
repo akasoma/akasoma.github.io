@@ -11,7 +11,13 @@ header ul li{
     font-size: 20px;
     margin:11px 20px 0px 0px;
 }
+.box{
+    margin-top: 50px;
+    text-align: center;
+}
 .box img{
+    background-color:#1ef5d1;
+    padding-bottom:100px;
     height:auto;
     width:300px;
 }
