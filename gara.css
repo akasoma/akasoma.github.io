@@ -49,3 +49,10 @@ header ul li{
 .box p{
     font-size: 17px;
 }
+.Work{
+    text-align:center;
+}
+.Work video{
+    height:300px;
+    width:auto;
+}
