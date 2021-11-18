@@ -52,7 +52,19 @@ header ul li{
 .Work{
     text-align:center;
 }
-.Work video{
+.music h2{
+    margin-top:50px;
+}
+.Work h1{
+    color: #00a968;
+}
+.music1 video{
     height:300px;
     width:auto;
+}
+.game h2{
+    margin-top:50px;
+}
+.movie h2{
+    margin-top:50px;
 }
