@@ -58,7 +58,7 @@ header ul li{
     margin-top:50px;
 }
 .Work h1{
-    color: #00a968;
+    color: #00d382;
 }
 .music1 video{
     height:300px;
@@ -69,4 +69,19 @@ header ul li{
 }
 .movie h2{
     margin-top:50px;
+}
+.Diary{
+    margin-top:100px;
+    text-align:center;
+}
+.Diary h2{
+    margin-top:10px;
+    color:red;
+}
+.Diary1{
+    border:6px double rgb(26, 143, 189);
+    display:inline-block;
+}
+.Diary1 p{
+    font-weight: bold;
 }
