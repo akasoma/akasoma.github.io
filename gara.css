@@ -51,12 +51,14 @@ header ul li{
 }
 .Work{
     text-align:center;
+    display:block;
+    background-color:#a03737;
 }
 .music h2{
     margin-top:50px;
 }
 .Work h1{
-    color:#00a968;
+    color: #00a968;
 }
 .music1 video{
     height:300px;
