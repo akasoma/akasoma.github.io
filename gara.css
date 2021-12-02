@@ -82,8 +82,11 @@ header ul li{
     margin-top:10px;
     color:red;
 }
-.month{
+.Diary1{
     border:6px double rgb(26, 143, 189);
+}
+.Diary2{
+    border:6px solid #00a968;
 }
 .month p{
     font-weight: bold;
