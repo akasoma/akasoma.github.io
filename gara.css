@@ -82,9 +82,9 @@ header ul li{
     margin-top:10px;
     color:red;
 }
-.Diary1{
+.month{
     border:6px double rgb(26, 143, 189);
 }
-.Diary1 p{
+.month p{
     font-weight: bold;
 }
