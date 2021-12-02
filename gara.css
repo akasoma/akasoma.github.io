@@ -75,6 +75,7 @@ header ul li{
 }
 .Diary{
     margin-top:100px;
+    display:inline-block;
     text-align:center;
 }
 .Diary h2{
@@ -83,7 +84,6 @@ header ul li{
 }
 .Diary1{
     border:6px double rgb(26, 143, 189);
-    display:inline-block;
 }
 .Diary1 p{
     font-weight: bold;
